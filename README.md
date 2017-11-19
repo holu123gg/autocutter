@@ -1,2 +1,2 @@
 # autocutter
-■automaticlly ■  cut  the   best  parts of music   
+■automatically ■  cut  the   best  parts of music   
